@@ -1,4 +1,6 @@
-# Config Sync
+<p align="center">
+  <img src="./Logo Big #1.png" alt="Config Sync">
+</p>
 
 Config Sync is a powerful configuration synchronization platform designed to simplify the process of managing Minecraft Servers with multiple instances. With Config Sync, you can ensure that all your server configurations are consistent across all instances, without the need for manual updates or maintenance. Say goodbye to the complexities of managing individual configurations and enjoy seamless synchronization with Config Sync.
 
